@@ -1,5 +1,5 @@
 # md5
 
-$ git clone https://github.com/micingans/md5<br>
+$ git clone https://github.com/micingans/md5-password<br>
 $ cd md5<br>
 $ php md5.php
